@@ -126,17 +126,17 @@
 
 <td> <a href="https://www.google.com/maps/place/Tirso+de+Molina,+Ambato/@-1.262198,-78.6371397,19z/data=!3m1!4b1!4m5!3m4!1s0x91d381f505a217f1:0xf165302b871f98b1!8m2!3d-1.262198!4d-78.6365925"><img src ="map.jpg""width="250" height="200" border="5px"></a></td>
 
-<td><center><IMG SRC="LO.GIF""width="250" height="200"></center></td>
+<td><center><IMG SRC="LO.jpg""width="250" height="200"></center></td>
 
 <td><a href="https://classroom.google.com/h"><img src ="CLAS.jpg""width="250" height="200" border="5px"></td>
 </tr>
 <tr>
 
-<td><center><IMG SRC="vocales.GIF""width="250" height="200"></center></td>
+<td><center><IMG SRC="vocales.jpg""width="250" height="200"></center></td>
 
 <td><video autoplay controls src="camtasia.mp4#t=01,10""width="250" height="200"></video></td>
 
-<td> <center><IMG SRC="CU.GIF""width="250" height="200"></center></td>
+<td> <center><IMG SRC="CU.jpg""width="250" height="200"></center></td>
 </tr>
 <tr>
 <td></td>
